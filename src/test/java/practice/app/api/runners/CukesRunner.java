@@ -17,7 +17,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/feature_api",
         publish = true,
         glue = "practice/app/api/step_def",
-        tags = "@us1"
+        tags = "@post"
 )
 
 public class CukesRunner {
